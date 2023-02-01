@@ -1,0 +1,27 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "프리온보딩 프론트엔드 챌린지 2월 사전과제",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nr-baek/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nr-baek/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/nr-baek/wanted-pre-onboarding-challenge-fe-2#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  },
+  "dependencies": {
+    "docdash": "^2.0.1"
+  }
+}
